@@ -1,0 +1,1 @@
+We create a node, copied some info and uploaded it to NPM.
